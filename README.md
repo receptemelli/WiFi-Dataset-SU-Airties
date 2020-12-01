@@ -3,6 +3,7 @@
 This dataset consists of downlink traffic captures of 7 different multimedia applications: Netflix, Youtube, Youtube Live, Twitch, Spotify, Whatsapp and Skype. Wireshark packet analyzer tool is used for the construction of this dataset.
 
 A.Duration:
+
 Each application has 30 captures which are around 11-12 minutes long.  First 1 minute-period and the period after 11 minutes are silent periods for observing the stabilization. In other words, each capture provides clear 10 minutes-long downlink traffic between 60-660 seconds.   
 
 B.Features:
